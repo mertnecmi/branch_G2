@@ -1,0 +1,1 @@
+print("Firat Deneme 2")
