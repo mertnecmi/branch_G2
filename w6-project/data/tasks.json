@@ -1,0 +1,50 @@
+[
+    {
+        "id": 2,
+        "coloru": "\u001b[93m",
+        "name": "deneme",
+        "deadline": "2025-02-05",
+        "priority": "Low",
+        "startt": "2025-01-29",
+        "status": "Pending",
+        "project_name": "None",
+        "notes": "deneme2025-01-30-deneme",
+        "task_type": "PersonalTask"
+    },
+    {
+        "id": 1,
+        "coloru": "\u001b[9m",
+        "name": "test",
+        "deadline": "2025-02-05",
+        "priority": "High",
+        "startt": "2025-01-29",
+        "status": "DELETED",
+        "project_name": "deneme",
+        "notes": "None",
+        "task_type": "WorkTask"
+    },
+    {
+        "id": 3,
+        "coloru": "\u001b[96m",
+        "name": "bu bir denemedir",
+        "deadline": "2025-02-05",
+        "priority": "High",
+        "startt": "2025-01-29",
+        "status": "Pending",
+        "project_name": "buda bir denemedir",
+        "notes": "None",
+        "task_type": "WorkTask"
+    },
+    {
+        "id": 4,
+        "coloru": "\u001b[96m",
+        "name": "\u00e7ay koy",
+        "deadline": "2025-02-06",
+        "priority": "Medium",
+        "startt": "2025-01-30",
+        "status": "Pending",
+        "project_name": "\u00e7ay koyma projesi",
+        "notes": "None",
+        "task_type": "WorkTask"
+    }
+]
