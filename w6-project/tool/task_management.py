@@ -57,7 +57,7 @@ class TaskManagement:
 
     def load_tasks(self):
         try:
-            with open(self.task_file, 'r') as file:
+            with open(self.task_file, 'r', encoding="utf-8") as file:
                 tasks_data = json.load(file)
                 tasks_data = sorted(tasks_data, key=lambda x: x['task_type'])
                 for task_data in tasks_data:
