@@ -1,3 +1,4 @@
 # Yapılacaklar
 
-# 1. menu 5 e not ekle yapılacak
+1. menu 5 e not ekle yapılacak
+2. görevler listelenirken daha görsel hale getirilecek
