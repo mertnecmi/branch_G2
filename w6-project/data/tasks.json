@@ -1,10 +1,10 @@
 [
     {
         "id": 2,
-        "coloru": "\u001b[93m",
+        "coloru": "\u001b[91m",
         "name": "deneme",
         "deadline": "2025-02-05",
-        "priority": "Low",
+        "priority": "High",
         "startt": "2025-01-29",
         "status": "Pending",
         "project_name": "None",
