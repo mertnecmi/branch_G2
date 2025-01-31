@@ -46,5 +46,17 @@
         "project_name": "\u00e7ay koyma projesi",
         "notes": "None",
         "task_type": "WorkTask"
+    },
+    {
+        "id": 5,
+        "coloru": "\u001b[96m",
+        "name": "markete git",
+        "deadline": "2025-01-31",
+        "priority": "Medium",
+        "startt": "2025-01-31",
+        "status": "Pending",
+        "project_name": "deneme",
+        "notes": "None",
+        "task_type": "WorkTask"
     }
 ]

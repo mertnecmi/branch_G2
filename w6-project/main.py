@@ -19,7 +19,13 @@ def main():
         choice = input("Enter your choice: ")
 
         if choice == '1':
-            task_type = input("Enter task type (personal/work): ").strip().lower()
+            while True:
+            
+                task_type = input("Enter task type (personal/work): ").strip().lower()
+                if task_type == "work" or task_type=="personal":
+                    break
+                else:
+                    print("personal veya work giriniz...")
             name = input("Enter task name: ")
             while True:
                 try:
