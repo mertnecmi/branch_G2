@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "tur": "K",
+        "isim": "Markete git",
+        "oncelik": "Yüksek",
+        "statu": "Tamamlandı",
+        "baslamat": "31/01/2025",
+        "bitist": "01/03/2025",
+        "aciklama": "Kurs için içecek al",
+        "kimden": "Vit",
+        "kime": "Bana",
+        "renk": "\u001b[09m"
+    },
+    {
+        "id": 2,
+        "tur": "K",
+        "isim": "Kişisel 1",
+        "oncelik": "Orta",
+        "statu": "Başladı",
+        "baslamat": "31/01/2025",
+        "bitist": "07/02/2025",
+        "aciklama": "Cklm",
+        "kimden": "Aliden",
+        "kime": "Veliye",
+        "renk": "\u001b[33m"
+    },
+    {
+        "id": 3,
+        "tur": "K",
+        "isim": "Çay koy",
+        "oncelik": "Yüksek",
+        "statu": "Ertelendi",
+        "baslamat": "31/01/2025",
+        "bitist": "01/02/2025",
+        "aciklama": "Çayla bizi şakirt",
+        "kimden": "Aliden",
+        "kime": "Veliye",
+        "renk": "\u001b[91m"
+    },
+    {
+        "id": 4,
+        "tur": "W",
+        "isim": "Mendix öğren",
+        "oncelik": "Yüksek",
+        "statu": "Başladı",
+        "baslamat": "31/01/2025",
+        "bitist": "30/03/2025",
+        "aciklama": "Mendix nedir ne değildir öğren hacım",
+        "kimden": "Vit",
+        "kime": "Bana",
+        "renk": "\u001b[91m"
+    }
+]
